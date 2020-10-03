@@ -1,0 +1,276 @@
+{
+    "noOfChangesValue": {
+        "CLAY COUNTY": {
+            "Increase": 231,
+            "Decrease": 132
+        },
+        "SUWANNEE COUNTY": {
+            "Decrease": 66,
+            "Increase": 88
+        },
+        "NASSAU COUNTY": {
+            "Increase": 95,
+            "Decrease": 40
+        },
+        "COLUMBIA COUNTY": {
+            "Increase": 82,
+            "Decrease": 43
+        },
+        "ST  JOHNS COUNTY": {
+            "Decrease": 227,
+            "Increase": 430
+        },
+        "BAKER COUNTY": {
+            "Decrease": 29,
+            "Increase": 41
+        },
+        "BRADFORD COUNTY": {
+            "Increase": 19,
+            "Decrease": 12
+        },
+        "HAMILTON COUNTY": {
+            "Increase": 26,
+            "Decrease": 9
+        },
+        "UNION COUNTY": {
+            "Increase": 7,
+            "Decrease": 8
+        },
+        "MADISON COUNTY": {
+            "Increase": 48,
+            "Decrease": 33
+        },
+        "LAFAYETTE COUNTY": {
+            "Increase": 51,
+            "Decrease": 17
+        },
+        "FLAGLER COUNTY": {
+            "Increase": 133,
+            "Decrease": 71
+        },
+        "DUVAL COUNTY": {
+            "Increase": 1231,
+            "Decrease": 662,
+            "No Change": 1
+        },
+        "LAKE COUNTY": {
+            "Decrease": 75,
+            "Increase": 131
+        },
+        "VOLUSIA COUNTY": {
+            "Decrease": 505,
+            "Increase": 862
+        },
+        "PUTNAM COUNTY": {
+            "Increase": 184,
+            "Decrease": 84
+        },
+        "MARION COUNTY": {
+            "Increase": 685,
+            "Decrease": 453
+        },
+        "SUMTER COUNTY": {
+            "Increase": 103,
+            "Decrease": 55
+        },
+        "LEON COUNTY": {
+            "Increase": 160,
+            "Decrease": 86
+        },
+        "FRANKLIN COUNTY": {
+            "Increase": 24,
+            "Decrease": 13
+        },
+        "LIBERTY COUNTY": {
+            "Decrease": 20,
+            "Increase": 16
+        },
+        "GADSDEN COUNTY": {
+            "Increase": 127,
+            "Decrease": 69
+        },
+        "WAKULLA COUNTY": {
+            "Increase": 63,
+            "Decrease": 22
+        },
+        "JEFFERSON COUNTY": {
+            "Increase": 40,
+            "Decrease": 17
+        },
+        "TAYLOR COUNTY": {
+            "Increase": 69,
+            "Decrease": 44
+        },
+        "BAY COUNTY": {
+            "Increase": 261,
+            "Decrease": 142
+        },
+        "WALTON COUNTY": {
+            "Increase": 208,
+            "Decrease": 80
+        },
+        "JACKSON COUNTY": {
+            "Increase": 137,
+            "Decrease": 71
+        },
+        "CALHOUN COUNTY": {
+            "Increase": 50,
+            "Decrease": 18
+        },
+        "HOLMES COUNTY": {
+            "Increase": 35,
+            "Decrease": 5
+        },
+        "WASHINGTON COUNTY": {
+            "Increase": 63,
+            "Decrease": 53
+        },
+        "GULF COUNTY": {
+            "Increase": 58,
+            "Decrease": 14
+        },
+        "ESCAMBIA COUNTY": {
+            "Increase": 346,
+            "Decrease": 148
+        },
+        "SANTA ROSA COUNTY": {
+            "Decrease": 304,
+            "Increase": 552
+        },
+        "OKALOOSA COUNTY": {
+            "Increase": 721,
+            "Decrease": 394
+        },
+        "ALACHUA COUNTY": {
+            "Increase": 626,
+            "Decrease": 347
+        },
+        "GILCHRIST COUNTY": {
+            "Decrease": 10,
+            "Increase": 29
+        },
+        "LEVY COUNTY": {
+            "Increase": 86,
+            "Decrease": 40
+        },
+        "DIXIE COUNTY": {
+            "Increase": 33,
+            "Decrease": 7
+        },
+        "SEMINOLE COUNTY": {
+            "Increase": 711,
+            "No Change": 1,
+            "Decrease": 388
+        },
+        "ORANGE COUNTY": {
+            "Increase": 1201,
+            "Decrease": 608,
+            "No Change": 2
+        },
+        "BREVARD COUNTY": {
+            "Decrease": 277,
+            "Increase": 595
+        },
+        "INDIAN RIVER COUNTY": {
+            "Increase": 263,
+            "Decrease": 117
+        },
+        "MIAMI DADE COUNTY": {
+            "Increase": 2775,
+            "Decrease": 1536,
+            "No Change": 4
+        },
+        "BROWARD COUNTY": {
+            "Increase": 2104,
+            "Decrease": 1089
+        },
+        "MONROE COUNTY": {
+            "Increase": 100,
+            "Decrease": 52
+        },
+        "PALM BEACH COUNTY": {
+            "Decrease": 994,
+            "Increase": 1797
+        },
+        "MARTIN COUNTY": {
+            "Decrease": 42,
+            "Increase": 67
+        },
+        "HENDRY COUNTY": {
+            "Increase": 43,
+            "Decrease": 31
+        },
+        "PASCO COUNTY": {
+            "Decrease": 251,
+            "Increase": 538,
+            "No Change": 1
+        },
+        "GLADES COUNTY": {
+            "Decrease": 7,
+            "Increase": 15
+        },
+        "HILLSBOROUGH COUNTY": {
+            "Decrease": 372,
+            "Increase": 793,
+            "No Change": 1
+        },
+        "HERNANDO COUNTY": {
+            "Increase": 85,
+            "Decrease": 35
+        },
+        "PINELLAS COUNTY": {
+            "Increase": 1178,
+            "Decrease": 596
+        },
+        "POLK COUNTY": {
+            "Increase": 1047,
+            "Decrease": 582
+        },
+        "North Fort Myers": {
+            "Increase": 1
+        },
+        "Orlando": {
+            "Increase": 1
+        },
+        "HIGHLANDS COUNTY": {
+            "Increase": 256,
+            "Decrease": 113
+        },
+        "HARDEE COUNTY": {
+            "Decrease": 28,
+            "Increase": 53
+        },
+        "MANATEE COUNTY": {
+            "Decrease": 179,
+            "Increase": 339
+        },
+        "OSCEOLA COUNTY": {
+            "Increase": 1
+        },
+        "LEE COUNTY": {
+            "Increase": 463,
+            "Decrease": 214,
+            "No Change": 1
+        },
+        "CHARLOTTE COUNTY": {
+            "Increase": 272,
+            "Decrease": 142
+        },
+        "COLLIER COUNTY": {
+            "Increase": 530,
+            "Decrease": 257
+        },
+        "SARASOTA COUNTY": {
+            "Increase": 287,
+            "Decrease": 130
+        },
+        "DESOTO COUNTY": {
+            "Increase": 66,
+            "Decrease": 42
+        },
+        "CITRUS COUNTY": {
+            "Increase": 250,
+            "Decrease": 134
+        }
+    }
+}
