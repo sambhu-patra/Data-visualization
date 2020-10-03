@@ -30,7 +30,7 @@ main.js: This file contains the code which:
 - Call the JavaScript logic functions. 
 - Save the results in public/output.json .
 
-For demo [click here](https://data--visualization.herokuapp.com/)
+## For demo [click here](https://data--visualization.herokuapp.com/)
 
 ## Authors
 Sambhu Ptara psambhu793@gmail.com
