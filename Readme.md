@@ -32,5 +32,5 @@ main.js: This file contains the code which:
 
 ## For demo [click here](https://data--visualization.herokuapp.com/)
 
-## Authors
+## Author
 Sambhu Ptara psambhu793@gmail.com
